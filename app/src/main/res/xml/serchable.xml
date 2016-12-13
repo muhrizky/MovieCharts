@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable android:label="Movie Chart"
+    android:hint="Videos, Films, Movies, Theater, Box Office, Box Office Movies"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
